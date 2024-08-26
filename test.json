@@ -1,1 +1,1 @@
-{ "hello": true }
+{"jakub_suran":{"scores":[0.1,0.2,0.1,0.1,0.2,0.1,0.1,0.2,0.1,0.5],"avg_score":0.25},"finn_michaud":{"scores":[0.1,0.2,0.1,0.1,0.2,0.1,0.1,0.2,0.1,0.5],"avg_score":0.2},"philip_hobby":{"scores":[0.1,0.2,0.1,0.1,0.2,0.1,0.1,0.2,0.1,0.5],"avg_score":0.18},"test":{"scores":[1,2,3],"avg_score":2}}
