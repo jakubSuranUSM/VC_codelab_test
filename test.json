@@ -1,1 +1,1 @@
-{ "hello": true }
+{"hello":true,"test":{"scores":[1,2,3],"avg_score":2}}
